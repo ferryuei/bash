@@ -9,3 +9,6 @@ https://github.com/corundum/corundum
 xilinx参考例程：
 https://github.com/Xilinx/xup_vitis_network_example.git
 引用开源仓库，已停止更新：https://github.com/hpcn-uam/100G-fpga-network-stack-core.git
+
+xilinx参考100G网卡工程，有dpdk驱动
+https://github.com/Xilinx/open-nic.git
