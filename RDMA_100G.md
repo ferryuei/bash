@@ -12,3 +12,7 @@ https://github.com/Xilinx/xup_vitis_network_example.git
 
 xilinx参考100G网卡工程，有dpdk驱动
 https://github.com/Xilinx/open-nic.git
+
+
+## 脚本相关
+python -m tox 
